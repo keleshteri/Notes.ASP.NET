@@ -75,3 +75,11 @@ body {
     margin-bottom: 10px;
     font-size: 13px;
 }
+
+.btn-delete {
+    background-color: #E74C3C !important;
+}
+
+.hidden {
+    display: none;
+}
